@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikrant-24
 - 👀 I’m interested in Web Technologies and IoT
-- 🌱 I’m currently learning HTML and JAVA
+- 🌱 I’m currently learning Web Development and Embedded systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
